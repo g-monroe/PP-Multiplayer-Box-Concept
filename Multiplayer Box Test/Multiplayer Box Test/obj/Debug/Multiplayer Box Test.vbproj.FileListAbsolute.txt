@@ -1,0 +1,11 @@
+c:\users\kevin\documents\visual studio 2015\Projects\Multiplayer Box Test\Multiplayer Box Test\bin\Debug\Multiplayer Box Test.exe.config
+c:\users\kevin\documents\visual studio 2015\Projects\Multiplayer Box Test\Multiplayer Box Test\bin\Debug\Multiplayer Box Test.exe
+c:\users\kevin\documents\visual studio 2015\Projects\Multiplayer Box Test\Multiplayer Box Test\bin\Debug\Multiplayer Box Test.pdb
+c:\users\kevin\documents\visual studio 2015\Projects\Multiplayer Box Test\Multiplayer Box Test\bin\Debug\Multiplayer Box Test.xml
+c:\users\kevin\documents\visual studio 2015\Projects\Multiplayer Box Test\Multiplayer Box Test\obj\Debug\Multiplayer Box Test.vbprojResolveAssemblyReference.cache
+c:\users\kevin\documents\visual studio 2015\Projects\Multiplayer Box Test\Multiplayer Box Test\obj\Debug\Multiplayer_Box_Test.Form1.resources
+c:\users\kevin\documents\visual studio 2015\Projects\Multiplayer Box Test\Multiplayer Box Test\obj\Debug\Multiplayer_Box_Test.Resources.resources
+c:\users\kevin\documents\visual studio 2015\Projects\Multiplayer Box Test\Multiplayer Box Test\obj\Debug\Multiplayer Box Test.vbproj.GenerateResource.Cache
+c:\users\kevin\documents\visual studio 2015\Projects\Multiplayer Box Test\Multiplayer Box Test\obj\Debug\Multiplayer Box Test.exe
+c:\users\kevin\documents\visual studio 2015\Projects\Multiplayer Box Test\Multiplayer Box Test\obj\Debug\Multiplayer Box Test.xml
+c:\users\kevin\documents\visual studio 2015\Projects\Multiplayer Box Test\Multiplayer Box Test\obj\Debug\Multiplayer Box Test.pdb
